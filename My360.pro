@@ -7,6 +7,8 @@ TARGET = 360
 DEPENDPATH += . My360 resource
 INCLUDEPATH += . My360
 
+QT += widgets
+
 # Input
 HEADERS += My360/abslowercenterwidget.h \
            My360/basewidget.h \
